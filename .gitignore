@@ -1,0 +1,15 @@
+# Build targets
+/target
+
+# MacOS Specific File
+**/.DS_Store
+
+# Environment Files
+**/.env
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
